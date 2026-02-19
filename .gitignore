@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Generated images
+*.png
+
+# Debug output
+debug_parts/
